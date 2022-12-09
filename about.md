@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-permalink: /about/
+permalink: /write/about/
 ---
 
 <img class="w70" src="/media/about/jaromir.jpeg" alt="Jaromír Janisch"/>

@@ -3,13 +3,13 @@ email: email@example.com
 description: Things to do
 author: sourjyo
 baseurl: "" 
-url: "https://sourjyo0.github.com/zoles" 
+url: "https://sourjyo0.github.com/write" 
 date_format: "%-d %B, %Y"
 
 # Build settings
 markdown: kramdown
 permalink: /:year/:month/:day/:title/
-
+theme: minima
 # Theme options
 enable_mathjax: true
 #disqus_shortname: 

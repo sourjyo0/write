@@ -1,9 +1,9 @@
 title: ヤロミル
-email: author@jaromiru.com
-description: MACHINE LEARNING & AI
-author: Jaromír Janisch
+email: email@example.com
+description: Things to do
+author: sourjyo
 baseurl: "" 
-url: "https://jaromiru.com" 
+url: "https://sourjyo0.github.com/zoles" 
 date_format: "%-d %B, %Y"
 
 # Build settings
@@ -12,7 +12,7 @@ permalink: /:year/:month/:day/:title/
 
 # Theme options
 enable_mathjax: true
-disqus_shortname: jaromiru-com
+#disqus_shortname: 
 
 # plugins:
   # - jekyll-feed

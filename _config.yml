@@ -9,7 +9,6 @@ date_format: "%-d %B, %Y"
 # Build settings
 markdown: kramdown
 permalink: /write/:year/:month/:day/:title/
-theme: minima
 # Theme options
 enable_mathjax: true
 #disqus_shortname: 
